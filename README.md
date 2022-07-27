@@ -6,10 +6,6 @@ Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados d
 
 ##
 
-- https://vanessamie.github.io/alura-js/
-
-##
-
 ## Conceitos aprendidos e aplicados:
 
 - REPL no NodeJS;
@@ -70,8 +66,6 @@ Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados d
 - Melhorar o encapsulamento de classes;
 - Proteger atributos sensíveis;
 - instanceof;
-- 
-- 
 
 
 ##
@@ -107,5 +101,3 @@ https://developer.mozilla.org/pt-BR/docs/Glossary/Primitive
 - Como o JavaScript funciona: gerenciamento de memória + como lidar com 4 vazamentos comuns de memória
 https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-mem%C3%B3ria-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39
 
-
-- 
