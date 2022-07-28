@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript - Orientação a Objetos
 
 Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados durante Trilha Front-End, cursos:
 - JavaScript: explorando a linguagem;
