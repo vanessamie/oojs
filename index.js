@@ -13,20 +13,24 @@ const cliente2 = new Cliente("Anne", 98625785462, 658942665);
 
 
 //Definição dos dados bancários dos clientes
-const conta1 = new Conta(0, cliente1, 1001);
+const conta1 = new ContaCorrente(cliente1, 1001);
 
-const conta2 = new Conta(0, cliente2, 102);
+const contaPoupanca = new ContaPoupanca(500, cliente2, 102);
 
-const contaPoupanca = new Conta(500, cliente1, 1001);
-
-
+const conta2 = new Conta(0, cliente2, 102)
 //Transações
 
 conta1.depositar(500);
 
-conta1.transferir(200, conta2);
+conta1.sacar(100);
 
-console.log(contaPoupanca);
+//conta1.transferir(200, contaPoupanca);
 
-console.log(conta1, conta2);
+contaPoupanca.sacar(100);
+
+console.log(conta1, contaPoupanca, conta2);
+
+
+
+
 

@@ -73,6 +73,12 @@ Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados d
 - Atributos estáticos;
 - Problemas e correção na duplicação de códigos;
 - Problemas de código extremamente compartilhado;
+- Especialização do código;
+- Propriedades e atributos herdados;
+- Sobrevarga de métodos;
+- Compartilhamento de códigos de forma segura;
+- super();
+- Métodos e propriedades privadas e protegidas;
 - 
 
 
