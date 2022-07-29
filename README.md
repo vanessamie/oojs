@@ -2,7 +2,8 @@
 
 Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados durante Trilha Front-End, cursos:
 - JavaScript: explorando a linguagem;
-- JavaScript: programando a Orientação a Objetos.
+- JavaScript: programando a Orientação a Objetos;
+- JavaScript: interfaces e Herança em Orientação a Objetos;
 
 ##
 
@@ -66,6 +67,13 @@ Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados d
 - Melhorar o encapsulamento de classes;
 - Proteger atributos sensíveis;
 - instanceof;
+- Construtores;
+- Encapsulamento;
+- Atributos "readonly";
+- Atributos estáticos;
+- Problemas e correção na duplicação de códigos;
+- Problemas de código extremamente compartilhado;
+- 
 
 
 ##
