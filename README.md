@@ -79,6 +79,11 @@ Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados d
 - Compartilhamento de códigos de forma segura;
 - super();
 - Métodos e propriedades privadas e protegidas;
+- Como o JavaScript sabe quem está sendo instanciado;
+- Proteção do sistema;
+- Como lançar erros no sistema;
+- Classes e métodos abstratos;
+- Erros em tempo de execução;
 - 
 
 
