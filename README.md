@@ -84,7 +84,14 @@ Exercícios de JavaScript e criação de sistema de Conta Corrente, realizados d
 - Como lançar erros no sistema;
 - Classes e métodos abstratos;
 - Erros em tempo de execução;
-- 
+- Herança;
+- Boas práticas de encapsulamento;
+- Polimorfismo;
+- Métodos estáticos;
+- Como tratar objetos;
+- Operador in;
+- Duck Type;
+- Interfaces padronizadas.
 
 
 ##

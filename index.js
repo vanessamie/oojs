@@ -58,4 +58,4 @@ const contaSalario = new ContaSalario(100, cliente1, 1001);
 
 
 
-console.log(diretorEstaLogado, gerenteEstaLogado);
+console.log(diretorEstaLogado, gerenteEstaLogado, cliente1EstaLogado);
